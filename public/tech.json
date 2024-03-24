@@ -1,0 +1,61 @@
+[
+    {
+        "id": 101,
+        "images": "https://i.ibb.co/xh7vV85/hydrabad.jpg",
+         "city": " hyderbad ",
+        "location": "india",
+        "type": "IT city",
+        "best_company": "google, microsoft"
+    
+    
+    },
+    {
+        "id": 102,
+        "images": "https://i.ibb.co/nwMdnGb/gurgaon.webp",
+        "city": " gurgaon",
+        "location": "india",
+        "type": "IT city",
+        "best_company": "google, microsoft"
+      
+    },
+    {
+        "id": 103,
+        "images": "https://i.ibb.co/n8VQWK6/chennai.webp",
+        "city": " chennai ",
+        "location": "india",
+        "type": "IT city",
+        "best_company": "google, microsoft"
+      
+   
+    },
+    {
+        "id": 104,
+        "images": "https://i.ibb.co/pjhh3MD/bangalore.jpg",
+        "city": " bangalore ",
+        "location": "india",
+        "type": "IT city",
+        "best_company": "google, microsoft"
+      
+    },
+    {
+        "id": 105,
+        "images": "https://i.ibb.co/XC1QsMH/pune.jpg",
+        "city": " pune ",
+        "location": "india",
+        "type": "IT city",
+        "best_company": "google, microsoft"
+      
+    
+    },
+    {
+        "id": 106,
+        "images": "https://i.ibb.co/92N43f7/mumbai.jpg",
+        "city": " mumbai ",
+        "location": "india",
+        "type": "IT city",
+        "best_company": "google, microsoft"
+   
+    }
+   
+  ]
+  
