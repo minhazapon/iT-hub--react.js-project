@@ -1,0 +1,57 @@
+[
+    {
+        "id": 101,
+        "company" : "tata consultancy",
+         "city": " hyderbad ",
+        "location": "india",
+        "type": "remote jobs",
+         "salary": "2000$ per month"
+    
+    
+    },
+    {
+        "id": 102,
+        "company" : "google",
+         "city": " hyderbad ",
+        "location": "india",
+        "type": "remote jobs",
+         "salary": "2000$ per month"
+      
+    },
+    {
+        "id": 103,
+        "company" : "microsoft",
+        "city": " hyderbad ",
+       "location": "india",
+       "type": "remote jobs",
+        "salary": "2000$ per month"
+   
+    },
+    {
+        "id": 104,
+        "company" : "toptal",
+        "city": " hyderbad ",
+       "location": "india",
+       "type": "remote jobs",
+        "salary": "2000$ per month"
+      
+    },
+    {
+        "id": 105,
+        "company" : "oracle",
+        "city": " hyderbad ",
+       "location": "india",
+       "type": "remote jobs",
+        "salary": "2000$ per month"
+    },
+    {
+        "id": 106,
+        "company" : "paypal",
+        "city": " hyderbad ",
+       "location": "india",
+       "type": "remote jobs",
+        "salary": "2000$ per month"
+    }
+   
+  ]
+  

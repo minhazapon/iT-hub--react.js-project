@@ -1,8 +1,9 @@
+import { Link } from "react-router-dom";
 
 
 const CityInfo = ({cityIN}) => {
 
-      const {images, city, location, type, best_company } = cityIN
+      const {id, images, city, location, type, best_company } = cityIN
 
     return (
         <div>
@@ -21,7 +22,14 @@ const CityInfo = ({cityIN}) => {
                <p className=" text-xl font-extrabold  text-violet-500" > type: {type} </p>
                <p className=" text-xl font-extrabold text-blue-400" > Companies: {best_company}  </p>
                <div className="card-actions">
+                 
+                 
+                 <Link to={`/jobs/${id}`} >
                  <button className="btn bg-violet-600 text-white">View details</button>
+                 
+                 </Link>
+                 
+                 
                </div>
              </div>
             </div>
